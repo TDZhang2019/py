@@ -1,4 +1,4 @@
-import mathlib
+import mathlib_custom as mathlib
 import pytest
 
 @pytest.mark.windows
